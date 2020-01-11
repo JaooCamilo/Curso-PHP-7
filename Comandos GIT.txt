@@ -1,0 +1,12 @@
+git init = TRANSFORMA A PASTA EM GIT
+git remote add origin ~endereço~ = ADICIONA O ENDEREÇO DO REPOSITORIO GITHUB
+git push origin master = COLOCAR OS ARQUIVOS NO GITHUB
+git add ~nome do arquivo ou -all~ = ADICIONAR ARQUIVOS NA NUVEM
+git commit = ATUALIZAR ARQUIVOS NA NUVEM
+
+
+
+
+---- configurando git
+git config --global user.name "usuário"
+git config --global user.email "email do github"
